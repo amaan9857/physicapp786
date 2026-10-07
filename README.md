@@ -1,2 +1,2 @@
-# physicapp786
+# physicsapp786
 This is a small physic application.
